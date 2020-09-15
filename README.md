@@ -1,1 +1,1 @@
-# Python_guessing_console_game
+# Console_based_guessing_game_app
